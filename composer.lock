@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "001eb09cca5836ce33a30a441819383d",
+    "content-hash": "879e07a3fff560854b3b8149aa6833dd",
+    "packages": [],
+    "packages-dev": [
+        {
+            "name": "eresults/bulletin-api-php",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/eResults/bulletin-api-php.git",
+                "reference": "bf0a00e0e9678498b2055ec30a917d4cfcd11ef4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/eResults/bulletin-api-php/zipball/bf0a00e0e9678498b2055ec30a917d4cfcd11ef4",
+                "reference": "bf0a00e0e9678498b2055ec30a917d4cfcd11ef4",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Bulletin\\": "lib/Bulletin/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Niels Janssen",
+                    "email": "nielsjanssen@live.nl"
+                },
+                {
+                    "name": "Martijn Gastkemper",
+                    "email": "martijngastkemper@gmail.com"
+                }
+            ],
+            "description": "Simple PHP client to talk to the Bulletin API",
+            "time": "2016-03-25 14:13:09"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "eresults/bulletin-api-php": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

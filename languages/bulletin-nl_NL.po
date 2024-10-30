@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Bulletin Plugin\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bulletin\n"
+"POT-Creation-Date: 2016-09-15 08:03:27+00:00\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Martijn Gastkemper <martijngastkemper@gmail.com>\n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin/class-bulletin-admin.php:120
+msgid "Bulletin settings"
+msgstr "Bulletin instellingen"
+
+#. Plugin Name of the plugin/theme
+#: admin/class-bulletin-admin.php:121
+msgid "Bulletin"
+msgstr "Bulletin"
+
+#: admin/class-bulletin-admin.php:141 admin/class-bulletin-admin.php:148
+msgid "API token"
+msgstr "API token"
+
+#: admin/class-bulletin-admin.php:159
+msgid ""
+"Obtain an API token from bulletin.email -> Settings -> External connections."
+msgstr ""
+"Kopieer de API token van bulletin.email -> Instellingen -> Externe "
+"connecties."
+
+#: admin/class-bulletin-admin.php:178
+msgid "Token is valid"
+msgstr "Token is geldig"
+
+#: admin/class-bulletin-admin.php:185
+msgid "Invalid token provided."
+msgstr "Token is niet geldig."
+
+#: admin/class-bulletin-admin.php:189
+msgid ""
+"Bulletin has a problem. Contact support and report you got an error with "
+"code %s"
+msgstr ""
+"Bulletin heeft een probleem. Meld de fout met code %s bij de support afdeling"
+
+#: admin/class-bulletin-admin.php:213
+msgid "Settings"
+msgstr "Instellingen"
+
+#: public/partials/bulletin-widget.php:32
+msgid "The Bulletin widget."
+msgstr "De Bulletin widget."
+
+#: public/partials/bulletin-widget.php:65
+msgid ""
+"Please set an API token on <a href=\"%s\">the Bulletin settings page</a>."
+msgstr ""
+"Stel een API token in op <a href=\"%s\">de Bulletin instellingen pagina</a>."
+
+#: public/partials/bulletin-widget.php:71
+msgid "Title:"
+msgstr "Titel:"
+
+#: public/partials/bulletin-widget.php:76
+msgid "List:"
+msgstr "Lijst:"
+
+#: public/partials/bulletin-widget.php:86
+msgid "Source label:"
+msgstr "Bron label:"
+
+#: public/partials/bulletin-widget.php:127
+msgid "Invalid email address"
+msgstr "Foutief e-mailadres"
+
+#: public/partials/bulletin-widget.php:153
+msgid "You are already subscribed"
+msgstr "Je bent al geabonneerd"
+
+#: public/partials/bulletin-widget.php:159
+msgid "Email"
+msgstr "E-mail"
+
+#: public/partials/bulletin-widget.php:160
+msgid "Your email address..."
+msgstr "Je e-mailadres..."
+
+#: public/partials/bulletin-widget.php:162
+msgid "Subscribe"
+msgstr "Abonneer"
+
+#: public/partials/bulletin-widget.php:167
+msgid "You are subscribed"
+msgstr "Je bent geabonneerd"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.bulletin.email/"
+msgstr "https://www.bulletin.email/"
+
+#. Description of the plugin/theme
+msgid "Let visitors subscribe to your Bulletin lists."
+msgstr "Bezoekers laten abonneren op je Bulletin lijst."
+
+#. Author of the plugin/theme
+msgid "Martijn Gastkemper"
+msgstr "Martijn Gastkemper"
+
+#. Author URI of the plugin/theme
+msgid "https://eresults.nl"
+msgstr "https://eresults.nl"

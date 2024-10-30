@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "eresults/bulletin-api-php": "dev-master"
+    }
+}

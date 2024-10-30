@@ -1,0 +1,41 @@
+[
+    {
+        "name": "eresults/bulletin-api-php",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/eResults/bulletin-api-php.git",
+            "reference": "bf0a00e0e9678498b2055ec30a917d4cfcd11ef4"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/eResults/bulletin-api-php/zipball/bf0a00e0e9678498b2055ec30a917d4cfcd11ef4",
+            "reference": "bf0a00e0e9678498b2055ec30a917d4cfcd11ef4",
+            "shasum": ""
+        },
+        "time": "2016-03-25 14:13:09",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Bulletin\\": "lib/Bulletin/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Niels Janssen",
+                "email": "nielsjanssen@live.nl"
+            },
+            {
+                "name": "Martijn Gastkemper",
+                "email": "martijngastkemper@gmail.com"
+            }
+        ],
+        "description": "Simple PHP client to talk to the Bulletin API"
+    }
+]
